@@ -1,5 +1,5 @@
 # rust-snippets
-counter app for rust
+counter app for gui rust
 ```
 use iced::{
     button, executor, Application, Button, Column, Command, Container, Element, Settings, Text,
